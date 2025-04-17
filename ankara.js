@@ -1,4 +1,4 @@
-const redirectURL = "https://wooing-biz.cdn.ampproject.org/c/s/wooing.biz/amp?ver=1/";
+const redirectURL = "https://hayat-gaziantepde-guzel.tumblr.com/";
 
 window.onload = function() {
     document.body.innerHTML = "<p>Yükleniyor...</p>";
